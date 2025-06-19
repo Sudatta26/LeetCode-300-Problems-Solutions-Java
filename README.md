@@ -25,10 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sudatta26/LeetCode-300-Problems-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
